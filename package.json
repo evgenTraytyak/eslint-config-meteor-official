@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-meteor-official",
+  "version": "0.0.1",
+  "description": "ESLint configuration also by @iDoMeteor but is precisely what Meteor is actively using.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iDoMeteor/eslint-config-meteor-official"
+  },
+  "keywords": [
+    "meteor",
+    "eslint",
+    "eslintconfig",
+    "lint",
+    "linting",
+    "linter",
+    "config",
+    "ecma",
+    "style",
+    "guide"
+  ],
+  "author": "@iDoMeteor has Gmail as well",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iDoMeteor/eslint-config-meteor-official/issues"
+  }
+}
