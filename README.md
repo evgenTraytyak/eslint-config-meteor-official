@@ -20,13 +20,15 @@ not sure how that will go for you tho :>):
     "extends": "meteor-official"
   }
 
+* Note, Meteor has an extensive .eslintignore in the root of their source, if
+you intend to use this on Meteor source, you may be interested in that.
 
 ## Summary
 
 Since I packaged up my own Meteor ESLint config based on Meteor's idealistic
-configuration, I figured I should provide you with the one they are actually
-using.  People seem to ask for it around the web, but it is, strike that - was
-buried in the source code.
+configuration, and then tuned it to my liking, I figured I should provide the
+one they are actually using.  People seem to ask for it around the web, but it
+is, strike that - was buried in the source code.
 
 I hereby bring it to light for your linting pleasure.  I will keep it up to
 date.

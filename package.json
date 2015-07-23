@@ -1,12 +1,10 @@
 {
   "name": "eslint-config-meteor-official",
-  "version": "0.0.1",
-  "description": "ESLint configuration also by @iDoMeteor but is precisely what Meteor is actively using.",
+  "version": "0.0.2",
+  "description": "ESLint configuration from Meteor source code on Github.\nTested & working.\n\nUsage instructions and notes on Github / in README.md.\n\nSoon to be updated via cron/sed daily upon changes to Meteor source.",
+  "homepage": "https://github.com/iDoMeteor/eslint-config-meteor-official",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/iDoMeteor/eslint-config-meteor-official"
-  },
+  "repository": "iDoMeteor/eslint-config-meteor-official",
   "keywords": [
     "meteor",
     "eslint",
