@@ -1,7 +1,7 @@
 # Meteor's Actual ESLint Configuration
+# <small>v0.0.2</small>
 
 http://github.com/iDoMeteor/eslint-config-meteor-official
-v0.0.1
 
 # Installation & Usage
 
